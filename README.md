@@ -1,4 +1,4 @@
-# dapetOTP
+# PELERRR
 
 Aplikasi web nomor virtual/OTP dengan backend FastAPI, MongoDB, frontend React, Docker Compose, dan auto-deploy GitHub Actions.
 
